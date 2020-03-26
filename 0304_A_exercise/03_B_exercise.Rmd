@@ -1,0 +1,15 @@
+---
+title: "02_B 練習"
+output: 
+  html_document:
+    theme: null
+    highlight: null
+    mathjax: null
+    self_contained: false
+    includes:
+      in_header: "03_B_css.html"
+
+---
+
+<a href="https://unsplash.com/" target="blank"><img class="pic" src= "colors.jpg" width="30%"></a>
+<div class=border>Photo by Gaelle Marcel on <a class="linkk" href="https://unsplash.com/" target="blank">Unsplash</a></div>
